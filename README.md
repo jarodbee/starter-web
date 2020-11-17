@@ -8,5 +8,11 @@ A simple website example
 This is to show various Git stuff an more.
 
 ## Purpose
+
+To obtain expert knowledge of Git and GitHub.
+
 ## Deploymment
+
+This is very simple stuff for learning Git.
+
 ## How to Contribute
