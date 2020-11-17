@@ -3,4 +3,5 @@
 This repository is for showing how Git and GitHub work
 ## Introduction
 ## Purpose
+## Deploymment
 ## How to Contribute
