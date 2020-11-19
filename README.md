@@ -17,6 +17,8 @@ This is very simple stuff for learning Git.
 
 ## How to Contribute
 
+Please fork this repository and issue a Pull request.
+
 ### Copyright
 
 2020 iChoice4U BV
