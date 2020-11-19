@@ -16,3 +16,7 @@ To obtain expert knowledge of Git and GitHub.
 This is very simple stuff for learning Git.
 
 ## How to Contribute
+
+### Copyright
+
+2020 iChoice4U BV
