@@ -1,7 +1,8 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work
-A simple website example. Adding a line for rabse example.
+A simple website example. Adding a line for rabse example,
+and more in myfeature branch
 
 
 ## Introduction
