@@ -23,4 +23,4 @@ Please fork this repository and issue a Pull request.
 
 ### Copyright
 
-2020 iChoice4U BV
+2020 iChoice4U BV - All rights reserved
